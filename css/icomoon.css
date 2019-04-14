@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?mg9fh2');
+  src:  url('../fonts/icomoon.eot?mg9fh2#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?mg9fh2') format('truetype'),
+    url('../fonts/icomoon.woff?mg9fh2') format('woff'),
+    url('../fonts/icomoon.svg?mg9fh2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icomoon-"], [class*=" icomoon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-Chat:before {
+  content: "\e900";
+}
+.icomoon-Check:before {
+  content: "\e901";
+}
+.icomoon-Coding:before {
+  content: "\e902";
+}
+.icomoon-Cup:before {
+  content: "\e903";
+}
+.icomoon-Heart:before {
+  content: "\e904";
+}
+.icomoon-Left_Arrow:before {
+  content: "\e905";
+}
+.icomoon-Lightbulb:before {
+  content: "\e906";
+}
+.icomoon-Phone:before {
+  content: "\e907";
+}
+.icomoon-Reload:before {
+  content: "\e908";
+}
+.icomoon-Right_Arrow:before {
+  content: "\e909";
+}
+.icomoon-Send_Symbol:before {
+  content: "\e90a";
+}
+.icomoon-Squares:before {
+  content: "\e90b";
+}
+.icomoon-User:before {
+  content: "\e90c";
+}
+.icomoon-Web_Page:before {
+  content: "\e90d";
+}
